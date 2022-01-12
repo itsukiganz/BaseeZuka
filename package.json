@@ -2,7 +2,7 @@
   "name": "Helga",
   "version": "0.1",
   "description": "ZukaChan",
-  "main": "node main",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
